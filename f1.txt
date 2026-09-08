@@ -1,3 +1,7 @@
 f1.txt in master
+<<<<<<< HEAD
 Master  update to f1
 Master update to f1
+=======
+release update
+>>>>>>> release
